@@ -58,17 +58,12 @@ Currently working on:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sauraf07&show_icons=true&theme=tokyonight" />
-</p>
-
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sauraf07&show_icons=true&theme=tokyonight)
 ---
 
 ## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauraf07&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sauraf07&layout=compact&theme=tokyonight)
 ---
 
 ## 🔥 GitHub Streak

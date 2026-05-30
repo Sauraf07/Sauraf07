@@ -69,7 +69,6 @@ Currently working on:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauraf07&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak

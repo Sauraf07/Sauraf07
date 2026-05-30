@@ -137,10 +137,9 @@ Personal portfolio built using HTML, CSS, JavaScript and React.
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Sauraf07/Sauraf07/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/Sauraf07/Sauraf07/blob/output/github-snake.svg)
 
 ---
 

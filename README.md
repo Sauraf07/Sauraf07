@@ -8,7 +8,7 @@
 
 # Hi 👋, I'm Sauraf Kumar
 
-🎓 BCA Student
+🎓 BCA Graduate
 
 💻 Aspiring Python Developer
 
@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-I am a passionate BCA student focused on becoming a Python Developer.
+I am a passionate BCA graduate focused on becoming a Python Developer.
 
 I enjoy solving problems, learning new technologies, and building real-world projects.
 

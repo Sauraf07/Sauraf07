@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;DSA+Learner;BCA+Student;Future+Software+Engineer;Open+Source+Enthusiast&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;DSA+Learner;BCA+Graduate;Future+AI+Engineer;Open+Source+Enthusiast&center=true&width=600&height=50">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 🚀 Currently Learning Data Structures & Algorithms
 
-🌱 Learning React, Python and GitHub
+🌱 Learning AI/ML, Python and Building RealWorld Projects.
 
 📫 Email: saurafsps7631@gmail.com
 
@@ -29,7 +29,7 @@ I am a passionate BCA graduate focused on becoming a Python Developer.
 I enjoy solving problems, learning new technologies, and building real-world projects.
 
 Currently working on:
-
+- AI/ML 
 - Python Development
 - Data Structures & Algorithms
 - React JS
@@ -41,13 +41,14 @@ Currently working on:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,AI,html,css,js,react,git,github,vscode,mysql" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
-
+- Django
+- FastAPI
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - React JS
@@ -89,7 +90,7 @@ Currently working on:
 ---
 
 ## 🎯 2026 Goals
-
+- Become an AI Engineer 
 - Master Python Development
 - Solve 300+ DSA Problems
 - Build 10 Real Projects
@@ -101,17 +102,20 @@ Currently working on:
 
 ## 🚀 Featured Projects
 
+## Tech Career Navigator
+Tech Career Navigator is a Full-Stack web application built to address this problem directly. It takes basic student information, such as the course they are enrolled in, their current semester, and the subjects they are studying, and uses that to recommend a career direction along with a structured roadmap. It also breaks that roadmap down into daily tasks so students have something concrete to work on every day.
+
 ### 📌 Python Calculator
 Simple calculator built using Python.
 
 ### 📌 Student Management System
 CRUD application using Python and File Handling.
 
-### 📌 Expense Tracker
-Track daily expenses and generate reports.
+### Quiz Game System 🎯
+A professional, interactive console-based Quiz Game System built with Python. Test your knowledge, compete with others, and climb the leaderboard!
 
-### 📌 Weather App
-Weather forecasting application using APIs.
+### 📌 🎓 Student Performance Management System
+Managing student records manually is error-prone and time-consuming. This system automates the entire student performance lifecycle — from data entry and validation to grade computation and report generation — making it reliable, scalable, and easy to use.
 
 ### 📌 Portfolio Website
 Personal portfolio built using HTML, CSS, JavaScript and React.

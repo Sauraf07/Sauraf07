@@ -41,7 +41,7 @@ Currently working on:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,AI,html,css,js,react,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,Node.js,html,css,js,react,git,github,vscode,mysql" />
 </p>
 
 ---
